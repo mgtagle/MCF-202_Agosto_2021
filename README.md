@@ -20,4 +20,6 @@ git config --global user.email "youremail@domain.com"
   + Puedes apoyarte con el siguiente video: [Git Tutorial](https://youtu.be/HVsySz-h9r4?t=238)
   + Laboratorio 1
   
+  Contribución a mi respositorio a lo largo del sesmestre.
   
+![](Contribucion.png)
